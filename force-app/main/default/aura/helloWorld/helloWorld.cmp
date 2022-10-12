@@ -1,0 +1,5 @@
+<aura:component>
+     <p style="background-color:rgb(33, 197, 15); font-size=50px"> Hello Aura Components </p>
+     <h1 style="background-color:rgb(33, 197, 39); font-size=50px">Hello From HelloWorld Component</h1>
+     <c:helloHeading/>
+</aura:component>
