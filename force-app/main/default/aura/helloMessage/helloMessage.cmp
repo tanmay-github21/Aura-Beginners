@@ -1,0 +1,6 @@
+<aura:component>
+     <aura:attribute name="message" type="String"/>
+     <p> Hello! [the message goes here]</p>
+     <p> Hello! {!v.message} </p>
+     <p>{!'Enclosed Message'+v.message}</p>
+</aura:component>
